@@ -1,4 +1,4 @@
-# Dev-Desktop-Profile-Installer
+# Dev Desktop Utilities
 Checks out a Drupal profile from a Git URL and builds a site base on its makefile.
 
 ## Installation
